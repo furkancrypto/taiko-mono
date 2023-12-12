@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.24.1](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.24.0...taiko-mono-v0.24.1) (2023-12-12)
+
+
+### Bug Fixes
+
+* **repo:** fix some typos ([#15338](https://github.com/taikoxyz/taiko-mono/issues/15338)) ([2d2283c](https://github.com/taikoxyz/taiko-mono/commit/2d2283ce968972fc3ee0c12f406dcc7135dc01a4))
+
 ## [0.24.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.23.0...taiko-mono-v0.24.0) (2023-12-05)
 
 
